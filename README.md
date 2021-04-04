@@ -1,4 +1,4 @@
-# FeedbackCollectingMERNproject
+# Feedback_Collecting_MERNproject
 
 #### Stack applied: Javascript, Node.js, MongoDB, React, Redux<br>
 #### Features: Google OAuth for user identification; credit-based payment supported by stripe; email survey sending by sendgrid<br>
